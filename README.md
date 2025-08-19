@@ -57,11 +57,11 @@ Place project files in htdocs (XAMPP) or www (WAMP).
 
 Start Apache & MySQL.
 
-Open browser → http://localhost/mini-drive.
+Open browser → http://localhost/mini-drive
 
 📑 Deliverables
 PHP project files
 
-MySQL dump file (database.sql)
+MySQL dump file (sql_schema.sql)
 
 README file
